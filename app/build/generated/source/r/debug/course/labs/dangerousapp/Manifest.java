@@ -10,12 +10,12 @@ package course.labs.dangerousapp;
 public final class Manifest {
     public static final class permission {
         /** 
-          Using a permission element,
+          DoneTODO - Using a permission element,
           define a custom permission with name
     		  "course.labs.permissions.DANGEROUS_ACTIVITY_PERM" 
           and "dangerous" protection level.
     
          */
-        public static final String DANGEROUS_ACTIVITY_PERM="course.labs.permission.DANGEROUS_ACTIVITY_PERM";
+        public static final String DANGEROUS_ACTIVITY_PERM="course.labs.permissions.DANGEROUS_ACTIVITY_PERM";
     }
 }
